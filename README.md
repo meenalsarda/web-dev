@@ -2,4 +2,4 @@
 
 ### screenshot of the first version
 
-![alt text](web-dev/screens/Capture 0.1.PNG)
+![alt text](https://github.com/meenalsarda/web-dev/blob/master/screens/Capture%200.1.PNG)
