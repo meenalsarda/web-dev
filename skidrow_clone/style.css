@@ -58,8 +58,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: -3%; 
     font-size: 18px;
-    color: #ccc27a;
-    font-weight: 800;
+    color: #a09968;;
+    font-weight: 700;
     background-color: transparent;
     background-repeat:no-repeat;
     border: none;
@@ -79,7 +79,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
     color: #a5a49a;
-    font-weight: 800;
+    font-weight: 700;
     background-color: transparent;
     background-repeat:no-repeat;
     border: none;
@@ -100,7 +100,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
     color: #a5a49a;
-    font-weight: 800;
+    font-weight: 700;
     background-color: transparent;
     background-repeat:no-repeat;
     border: none;
@@ -121,7 +121,7 @@ body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
   color: #a5a49a;
-  font-weight: 800;
+  font-weight: 700;
   background-color: transparent;
   background-repeat:no-repeat;
   border: none;
@@ -132,4 +132,49 @@ body{
 }
 .tablinks_pcre:hover{
   color: aliceblue;
+}
+
+.untouched{
+  color: #4d4b42;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 1%;
+  font-size: 13px;
+}
+
+/*********************    POSTS    *********************/
+
+/*post 1*/
+.post1{
+  font-family:  Arial, Helvetica, sans-serif;
+  margin-left: 3.5%;
+  margin-top: -48%;
+  font-size: 17px;
+  color: #a09968;
+  font-weight: 700;
+}
+.post1_txt{
+  font-size: 13px;
+  margin-top: 2%;
+  color: #c2beaf; 
+  font-family:  Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  color: #58574e;
+  margin-left: 4%;
+  
+}
+.post1_img{
+  margin-top: 3%;
+  margin-left: 15.5%;
+}
+
+.post1_lnk{
+  font-size: 12px;
+  margin-left: 18.1%;
+  margin-top: 1%;
+  color: #c2beaf;
+}
+
+.post_bg{
+  position: static;
+
 }
